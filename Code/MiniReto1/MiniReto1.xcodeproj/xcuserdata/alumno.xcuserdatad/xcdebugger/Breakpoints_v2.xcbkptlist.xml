@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "BBD76372-D6F6-4C72-9F29-2A8D1F386D40"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7FA80EE1-D7CB-4916-8B91-972A9977C945"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MiniReto1/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "7FA80EE1-D7CB-4916-8B91-972A9977C945 - 7002b72264debed9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MiniReto1.ViewController.color3Maquina.getter : Swift.Optional&lt;__C.UIView&gt;"
+                  moduleName = "MiniReto1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/A00822455/MiniReto1/MiniReto1/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "7FA80EE1-D7CB-4916-8B91-972A9977C945 - ce9542c538c86d5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MiniReto1.ViewController.color3Maquina.setter : Swift.Optional&lt;__C.UIView&gt;"
+                  moduleName = "MiniReto1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/A00822455/MiniReto1/MiniReto1/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "7FA80EE1-D7CB-4916-8B91-972A9977C945 - 615ae4e3c81ed0c6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MiniReto1.ViewController.color3Maquina.modify : Swift.Optional&lt;__C.UIView&gt;"
+                  moduleName = "MiniReto1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/A00822455/MiniReto1/MiniReto1/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "67">
+               </Location>
+               <Location
+                  uuid = "7FA80EE1-D7CB-4916-8B91-972A9977C945 - 64d2e362d634354c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MiniReto1.ViewController.color3Maquina.modify : Swift.Optional&lt;__C.UIView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "MiniReto1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/A00822455/MiniReto1/MiniReto1/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "7FA80EE1-D7CB-4916-8B91-972A9977C945 - c82371c22a976280"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MiniReto1.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; MiniReto1.ViewController"
+                  moduleName = "MiniReto1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/A00822455/MiniReto1/MiniReto1/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "474">
+               </Location>
+               <Location
+                  uuid = "7FA80EE1-D7CB-4916-8B91-972A9977C945 - f863c7ba7f82f4c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MiniReto1.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;MiniReto1.ViewController&gt;"
+                  moduleName = "MiniReto1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/A00822455/MiniReto1/MiniReto1/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "412">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
